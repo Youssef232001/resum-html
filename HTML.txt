@@ -1,0 +1,36 @@
+All HTML elements can have attributes
+The href attribute of <a> specifies the URL of the page the link goes to
+The src attribute of <img> specifies the path to the image to be displayed
+The width and height attributes of <img> provide size information for images
+The alt attribute of <img> provides an alternate text for an image
+The style attribute is used to add styles to an element, such as color, font, size, and more
+The lang attribute of the <html> tag declares the language of the Web page
+The title attribute defines some extra information about an element
+
+STYLES HTML: 
+style="color:red;"
+ style="color:yellow;"
+ style="font-size:70px;
+<tagname style="property:value;">
+style="background-color:powderblue; toute la page en bleu 
+                                              style="text-align:center;"
+
+HTML Formatting Elements
+Formatting elements were designed to display special types of text:
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+
+
+
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+</canvas> ==========================================================> UN CADRE VIDE
